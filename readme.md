@@ -1,3 +1,8 @@
+# Energy Monitoring Backend
+
+Node.js • MQTT • InfluxDB • Express
+
+
 Energy Monitoring System
 Overview
 
